@@ -4,7 +4,8 @@
 -Any one can verify a particular certificate of the user 
 
 
-<img align="center" src="https://user-images.githubusercontent.com/97403550/208246843-64aa9fa1-1e58-4987-9687-8b12f3550401.png" width="46%"> <img align="center" src="https://user-images.githubusercontent.com/97403550/208246937-8e179c87-f3d3-4811-b49d-c8e4dc3293c6.png" width="27%"><img align="center" src="https://user-images.githubusercontent.com/97403550/208246923-2058f2ea-b80b-47b5-9db8-6fd4d3cb19c6.png" width="27%">
+<img align="center" src="https://user-images.githubusercontent.com/97403550/208246843-64aa9fa1-1e58-4987-9687-8b12f3550401.png" width="60%">
+<img align="center" src="https://user-images.githubusercontent.com/97403550/208246937-8e179c87-f3d3-4811-b49d-c8e4dc3293c6.png" width="40%"><img align="center" src="https://user-images.githubusercontent.com/97403550/208246923-2058f2ea-b80b-47b5-9db8-6fd4d3cb19c6.png" width="40%">
 
 This is a Group project of SSIP Hackathon 2022 and this project helped our group to get into Final Round of SSIP Hackathon
 

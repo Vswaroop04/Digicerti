@@ -1,8 +1,8 @@
 # Digicerti
--A Blockchain Certificate Verification Platform 
--In this project there were 2 main Entities 1. Issuer (Who is the owner of the course) 2. User (Student who have taken the course)
--An Issuer can issue the certificates to the users/students who have taken their course and users can check them in their respective daashboards 
--Any one can verify a particular certificate of the user 
+- A Blockchain Certificate Verification Platform 
+- In this project there were 2 main Entities 1. Issuer (Who is the owner of the course) 2. User (Student who have taken the course)
+- An Issuer can issue the certificates to the users/students who have taken their course and users can check them in their respective daashboards 
+- Any one can verify a particular certificate of the user 
 
 ## Login Dashboard
 

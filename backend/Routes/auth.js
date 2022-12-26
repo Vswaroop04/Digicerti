@@ -1,12 +1,12 @@
 const express = require('express');
-const User = require('../models/User');
-const Issuer = require('../models/Issuer');
+const User = require('../Models/User');
+const Issuer = require('../Models/Issuer');
 const router = express.Router();
 const { body, validationResult } = require('express-validator');
 const bcrypt = require('bcrypt');
 var jwt = require('jsonwebtoken');
-var fetchuser = require('../middleware/fetchuser');
-var fetchissuer = require('../middleware/fetchissuer');
+var fetchuser = require('../Middleware/fetchuser');
+var fetchissuer = require('../Middleware/fetchissuer');
 const Certificate = require('../Models/Certifications');
 const Course = require('../Models/CourseStudents');
 
